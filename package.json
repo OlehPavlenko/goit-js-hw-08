@@ -5,14 +5,14 @@
   "homepage": "https://github.com/OlehPavlenko",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*https://github.com/OlehPavlenko/goit-js-hw-08.git"
+    "build": "parcel build src/*.html ---public-url/goit-js-hw-08.git"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/goitacademy/parcel-project-template.git"
   },
   "keywords": [],
-  "author": "Pavlenko Oleh <pavlenko.zevs@gmail.com>",
+  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/goitacademy/parcel-project-template/issues"

@@ -22,4 +22,4 @@ function createGalleryMarkup(items) {
                         <img class="gallery__image" src="${preview}" alt="${description}" />
                     </a>`})
         .join('')
-}
+    }
